@@ -1,2 +1,2 @@
 # rambles
-some rambles whichin case of forgetting
+some rambles which prevent to forget
